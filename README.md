@@ -24,25 +24,25 @@ My work spans large-scale GPU deployments, multi-datacenter operations, diagnost
 
 🌐 GPU & Datacenter Operations
 
-GB200 / GB300 Deployment — Training & Inference
-Large-Scale Cross-Geo Datacenter Execution
-Multi-DC GPU Fleet Management & Recovery
+GB200 / GB300 Deployment — Training & Inference,
+Large-Scale Cross-Geo Datacenter Execution,
+Multi-DC GPU Fleet Management & Recovery,
 
 🔧 Hardware & Reliability Engineering
 
-Node, Rack & Cluster-Level Debugging
-Liquid Cooling Systems — Reliability & Diagnostics
-Fault Detection, Analytics & Diagnostic Improvement
-RAS Engineering for High NIS & Low MTTR Goals
+Node, Rack & Cluster-Level Debugging,
+Liquid Cooling Systems — Reliability & Diagnostics,
+Fault Detection, Analytics & Diagnostic Improvement,
+RAS Engineering for High NIS & Low MTTR Goals,
 
 🖥️ AI Infrastruture Tools & Techniques
 
-NCCL for Multi-GPU / Distributed Workloads
-NVIDIA Blackwell Architecture & NVLink
-Telemetry Data Analysis & Dashboarding
-Automated Fault Classification & Remediation
-Agentic Process Automation
-Understanding of Kubernetes Cluster Operations
+NCCL for Multi-GPU / Distributed Workloads,
+NVIDIA Blackwell Architecture & NVLink,
+Telemetry Data Analysis & Dashboarding,
+Automated Fault Classification & Remediation,
+Agentic Process Automation,
+Understanding of Kubernetes Cluster Operations,
 
 📈 Current Focus
 
